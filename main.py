@@ -2,7 +2,6 @@ import os
 import uvicorn
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pypdf import PdfReader
 from groq import Groq
 from dotenv import load_dotenv
 import io
