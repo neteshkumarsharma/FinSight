@@ -6,7 +6,7 @@
 
 **FinSight** is an AI-powered financial research tool that automatically analyzes earnings call transcripts and financial PDFs. It extracts key insights, management sentiment, and forward guidance using the Groq Llama 3 AI engine, helping analysts save hours of reading time.
 
-🔗 **Live Demo:** [INSERT YOUR NETLIFY LINK HERE]
+🔗 **Live Demo:** https://finsightaianalyst.netlify.app/
 
 ---
 
